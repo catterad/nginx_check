@@ -5,7 +5,7 @@ import json
 import urllib2
 from array import *
 
-#data = json.load(urllib2.urlopen('http://10.108.111.214:3333/status/server_zones/VOD'))
+#data = json.load(urllib2.urlopen('http://host:port/status/server_zones/xxx'))
 #print data
 
 Four = array('i',[0,0])
